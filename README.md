@@ -15,6 +15,14 @@ The Python version was written either in late 2013 or early 2014; the BASIC
 version was written in November 2014 (during NaNoGenMo, but not submitted for
 it.)
 
+- - -
+
+There is a possibility I will one day use one of these versions (probably the
+BASIC version) as the basis of a "game", wherein pressing the space bar between
+generated lines causes one of the words to be replaced by `*BLAM*` and to be
+removed from subsequent lines.  (Because when the mutant apocalypse does come,
+our primary mode of defense will, naturally, be shotguns.)
+
 [SPECULATIVE FICTIONS ISSUE ONE]: http://speculativefictions.weebly.com/
 [Python source code]: https://github.com/cpressey/MUTANST/blob/master/src/MUTANST.py
 [original generated output]: https://github.com/cpressey/MUTANST/blob/master/doc/MUTANST.txt
